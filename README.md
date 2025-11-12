@@ -30,8 +30,10 @@ Enter target IP or subnet (e.g., 192.168.1.0/24):
 
 # 📁 Output
 
-report_YYYYMMDD_HHMMSS.html: A full HTML report of recon results.
-report_YYYYMMDD_HHMMSS.xml: Raw Nmap scan output for advanced users.
+report_YYYYMMDD_HHMMSS.html: 
+A full HTML report of recon results.
+report_YYYYMMDD_HHMMSS.xml: 
+Raw Nmap scan output for advanced users.
 
 # 💡 Example Report Snippet
 
@@ -57,5 +59,3 @@ Unauthorized use against systems you don’t own is illegal and unethical.
 
 
   
- Markdown / CSV export options
- Web-based interface (Flask)
