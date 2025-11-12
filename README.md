@@ -2,6 +2,7 @@ Nmap Recon & Attack Suggestions
 nmap_automation.py is a Python-based reconnaissance tool designed for offensive security assessments. 
 It automates nmap scanning, parses the results, and generates an actionable HTML report including:
 
+
 Open, closed, and filtered ports
 Detected services and versions
 Potential vulnerabilities per service
